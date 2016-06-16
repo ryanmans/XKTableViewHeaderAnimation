@@ -1,0 +1,1 @@
+![](HeaderAnimationEffects/headerAnimationGif/headerAnimation.gif)
