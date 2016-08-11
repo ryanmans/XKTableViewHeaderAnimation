@@ -138,7 +138,7 @@
 {
     [super viewWillAppear:animated];
     
-    [self scrollViewDidScroll:self.displayTableView];
+//    [self scrollViewDidScroll:self.displayTableView];
     [self.navigationController.navigationBar setShadowImage:[UIImage new]];
     
 }
